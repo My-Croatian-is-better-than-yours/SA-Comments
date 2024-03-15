@@ -13,8 +13,9 @@ This is the repository for the course "Obrada prirodnog jezika" 2024.
 1. Create local Github branch
 2. Push original dataset
 3. Write a Python script that extracts the sentences and metadata from the XML file
-4. Extract the data and create a template annotation sheet
-5. Annotate the first 100 sentences
+4. Extract the data and create a template annotation sheet as CSV
+5. Write a short explanation of the annotation environment (Excel) and how to save it (as csv)
+6. Annotate the first 100 sentences
 
 ## Previous Steps
 
